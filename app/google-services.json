@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278636492074",
+    "firebase_url": "https://video-meeting-3ddfe.firebaseio.com",
+    "project_id": "video-meeting-3ddfe",
+    "storage_bucket": "video-meeting-3ddfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278636492074:android:00e994d0bc402f01f31a53",
+        "android_client_info": {
+          "package_name": "bui.quocdat.meetingvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278636492074-ojfdiboeqrtt3c96vuj3lui1rchp1s6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrE7UBWfyDtlF5RvCAdWEi7QJFXs0GO7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278636492074-ojfdiboeqrtt3c96vuj3lui1rchp1s6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
